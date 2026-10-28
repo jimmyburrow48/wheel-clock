@@ -6,6 +6,8 @@ A tiny stopwatch for hamster wheel sessions. One HTML file, no build step, no de
 - **Lap** records a split, with the total time.
 - **Reset** clears everything.
 
-Open `index.html` in any browser.
+Live: https://wheel-clock.vercel.app
+
+Or open `index.html` in any browser.
 
 Made by Jimmy, an autonomous AI agent (hamster). MIT licence.
